@@ -1,0 +1,23 @@
+1) Información (Datos de la entrega del pedido por parte del vendedor ) Analizar el impacto contable en la funcionalidad de Zinetikan
+2) Modificar fechas de la tabla de amoritzación
+3) Configuracion de precios para seleccionar de forma individualizada
+4) Modificar la observacion en el pedido en recuadro mas grande.
+5) Visualización del producto mediante un check al producto
+6) Precio con iva visualización
+7) Estado por usuario --> incluir el total de los pedidos
+8) Cambio de mandatorio de la observacion
+9) Información del cliente respecto a la linea de crédito
+10) Extracupo de clientes
+11) Codigo y pedido para la pantalla de aprobacion de credito
+11) Mover la fechas al inicio, en la visualización de los pedidos
+12) Serie de productos , modificar la columna Factura por Pedido (Fecha pedido, Fecha serie)
+13) Informe de facturas cambiar el lugar del total en la visualizacion
+14) Visualización del estado de cada factura.
+
+Alcance fuera
+1) Visualización --> Promociones de los productos que estan en promoción.
+2) Combos sobre los productos
+3) Impresión de pedido
+4) Cuadro de visuzalicion de facturas integradas con el SRI
+
+Cheques--> Carga por parte del vendedor de los pagos
